@@ -2,4 +2,4 @@
 # Exercici1HTML
 Exercici 1 html
 
-https://lmestres.github.io/
+https://lmestres.github.io/root
